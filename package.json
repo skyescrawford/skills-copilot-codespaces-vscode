@@ -69,8 +69,8 @@
     "vary": "^1.1.2"
   },
   "scripts": {
-    "dev": "node --watch comment.js",
-    "start": "node comment.js"
+    "dev": "node --watch comments.js",
+    "start": "node comments.js"
   },
   "keywords": [],
   "author": "",
